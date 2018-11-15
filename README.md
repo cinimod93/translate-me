@@ -48,7 +48,6 @@ Today:
 
 Tomorrow: 
 
-
 	-Setup environment/learning (priority)
 	-Wireframe creation
 	-Finalize flowchart
