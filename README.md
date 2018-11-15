@@ -1,22 +1,36 @@
 # translate-me
 
-What do we want to do?
-	-Translation tool via camera input. e.g user will take pictures and the app will automatically detect text and translate into desired language.
+<b>What do we want to do?</b>
+<br>
+&emsp;-Create a translation tool using camera/image input. E.g user will take pictures and the app will automatically detect text and translate into desired language.
 
-How to appeal to users?
-	-No ads. 
+<b>How to appeal to users?</b>
+<br>
+&emsp;
+	-No ads
+<br>
+&emsp;
 	-Good for travelers
+<br>
+&emsp;
 	-User friendly
 
-What problems will this solve/how will it simplify life?
+<b>What problems will this solve/how will it simplify life?</b>
+<br>
+&emsp;
 	-Language barrier
+<br>
+&emsp;
 	-Reduce time in translating
+<br>
+&emsp;
 	-Makes it easier for travelers
 
 
-Deadline: December 21, 2018
+<b>Deadline:</b> <i>December 21, 2018</i>
 
 Today: 
+
 	-Define requirements:
 		Need google translation api and cloud vision api
 		 https://cloud.google.com/translate/docs/
@@ -33,6 +47,8 @@ Today:
 
 
 Tomorrow: 
+
+
 	-Setup environment/learning (priority)
 	-Wireframe creation
 	-Finalize flowchart
