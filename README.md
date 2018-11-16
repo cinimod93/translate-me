@@ -45,7 +45,6 @@ Today:
 		Google Cloud API Key(register for google cloud)
 		Android Tools(https://www.altexsoft.com/blog/engineering/top-20-tools-for-android-development/)		
 
-
 Tomorrow: 
 
 	-Setup environment/learning (priority)
