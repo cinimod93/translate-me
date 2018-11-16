@@ -33,17 +33,17 @@ Today:
 
 	-Define requirements:
 		Need google translation api and cloud vision api
-		 <a>https://cloud.google.com/translate/docs/</a>
-		 <a>https://cloud.google.com/vision/</a>
+		 https://cloud.google.com/translate/docs/
+		 https://cloud.google.com/vision/
 		Need to use cloud vision to extract text from images captured from camera or uploaded from the gallery.
 		Need to use translation api to translate extracted text into desired language.
-		 <a>https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/translate/</a>
+		 https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/translate/
 		Gives an option to save/discard the captured image to the gallery.
 		Saves the translated text into memory for later use.
 
 	-Tools Needed:
 		Google Cloud API Key(register for google cloud)
-		Android Tools(<a>https://www.altexsoft.com/blog/engineering/top-20-tools-for-android-development/</a>)
+		Android Tools(https://www.altexsoft.com/blog/engineering/top-20-tools-for-android-development/)
 
 
 Tomorrow: 
